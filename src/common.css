@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #f7f7f7;
+    color: #54449a;
+    line-height: 1.5;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+  }
+  
+  .search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
